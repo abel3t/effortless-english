@@ -6,3 +6,5 @@
   * [Mini Story](1.-a-day-for-the-dead/mini-story.md)
 * [5. Drag](5.-drag/README.md)
   * [Article](5.-drag/article.md)
+* [6. Intimacy](6.-intimacy/README.md)
+  * [Article](6.-intimacy/article.md)
