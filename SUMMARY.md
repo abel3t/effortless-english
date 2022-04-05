@@ -8,3 +8,5 @@
   * [Article](5.-drag/article.md)
 * [6. Intimacy](6.-intimacy/README.md)
   * [Article](6.-intimacy/article.md)
+* [7. Secret Love](7.-secret-love/README.md)
+  * [Article](7.-secret-love/article.md)
