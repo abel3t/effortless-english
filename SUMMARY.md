@@ -4,6 +4,7 @@
   * [Vocab](1.-a-day-for-the-dead/vocab.md)
   * [Article](1.-a-day-for-the-dead/article.md)
   * [Mini Story](1.-a-day-for-the-dead/mini-story.md)
+* [2. A Kiss](2.-a-kiss.md)
 * [5. Drag](5.-drag/README.md)
   * [Article](5.-drag/article.md)
 * [6. Intimacy](6.-intimacy/README.md)
