@@ -1,4 +1,4 @@
-# Mini Story
+# Mini Story A
 
 Welcome to the mini story for A Kiss. In this lesson I will ask many questions. You must answer every question. Answer every question. Pause your computer or pause your iPod, answer the question, then play again. It’s very important – very important. Answer every question.
 
