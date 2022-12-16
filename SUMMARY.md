@@ -7,6 +7,7 @@
 * [2. A Kiss](2.-a-kiss.md)
   * [Mini Story A](2.-a-kiss/mini-story-a.md)
   * [Mini Story B](2.-a-kiss/mini-story-b.md)
+  * [Article](2.-a-kiss/article.md)
 * [5. Drag](5.-drag/README.md)
   * [Article](5.-drag/article.md)
 * [6. Intimacy](6.-intimacy/README.md)
